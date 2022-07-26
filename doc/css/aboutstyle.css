@@ -1,0 +1,54 @@
+.About-contaner {
+	height: 60vh;
+	width: 100%;
+	background-image: linear-gradient(rgba(57, 57, 63, 0.903), rgba(4, 9, 30, 0.7)), url(/img/bg2.jpg);
+	background-position: center;
+	background-size: cover;
+	text-align: center;
+	color: #fff;
+}
+
+#About {
+	padding-top: 300px;
+}
+
+.about-us {
+	width: 80%;
+	margin: auto;
+	padding-top: 50px;
+	padding-bottom: 50px;
+
+}
+
+.about-col {
+	flex-basis: 48%;
+	padding: 30px 2px;
+
+}
+
+.about-col img {
+	width: 100%;
+
+}
+
+.about-col h1 {
+	padding-top: 0;
+	font-family: 'Cormorant SC', serif;
+	padding-bottom: 7px;
+	font-size: 30px;
+}
+
+.about-col p {
+	padding: 15px 0 25px;
+	font-family: 'Poppins', sans-serif;
+}
+
+.red-btn {
+	border: 2px solid #ebb4b1;
+	background: transparent;
+	color: #f8a9a3;
+}
+
+.red-btn:hover {
+	color: #fff;
+}
